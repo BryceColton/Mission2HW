@@ -12,3 +12,4 @@ C:\Users\colto\OneDrive\Desktop\holder\Hilton\mission#2\obj\Debug\net8.0\refint\
 C:\Users\colto\OneDrive\Desktop\holder\Hilton\mission#2\obj\Debug\net8.0\mission#2.pdb
 C:\Users\colto\OneDrive\Desktop\holder\Hilton\mission#2\obj\Debug\net8.0\mission#2.genruntimeconfig.cache
 C:\Users\colto\OneDrive\Desktop\holder\Hilton\mission#2\obj\Debug\net8.0\ref\mission#2.dll
+C:\Users\colto\OneDrive\Desktop\holder\Hilton\mission#2\obj\Debug\net8.0\mission#2.sourcelink.json
